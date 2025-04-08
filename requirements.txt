@@ -1,0 +1,14 @@
+fastapi==0.115.11
+uvicorn==0.34.0
+python-dotenv==1.0.1
+httpx==0.28.1
+groq==0.20.0
+sqlalchemy==2.0.39
+psycopg2==2.9.10
+psycopg2-binary==2.9.10
+asyncpg==0.30.0
+pinecone-client==6.0.0
+sentence-transformers==3.4.1
+pgvector==0.4.0
+pydantic==2.10.6
+python-multipart==0.0.20
